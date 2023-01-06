@@ -1,0 +1,7 @@
+com\adactin\stepdef\Stepdef.class
+com\restassured\Rest.class
+com\AdactinCucumber\AppTest.class
+com\adactin\runner\RunnerClass.class
+com\adactin\stepdef\Auto.class
+com\properties\FileReaderManager.class
+com\properties\ConfigurationReader.class
